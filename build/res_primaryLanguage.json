@@ -1,0 +1,127 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Connie Wang. I graduated from the University of Toronto in 2022 with a HBSc in Computer Science.<br/><br/>I have been fortunate to acquire knowledge and skills in fullstack development and automation over the course of my career. These experiences were gained within professional contexts, providing me with a comprehensive understanding of how to build user-friendly and responsive web applications. I am committed to delivering high-quality work and exceeding client expectations. My attention to detail, strong communication skills, and ability to work collaboratively make me a valuable asset to any team. <br/><br/>Outside of work, I enjoy hiking and exploring new places. I believe in the importance of continuous learning and strive to stay up-to-date with the latest technologies and industry trends. <br/><br/> If you're looking for a talented and dedicated developer who can deliver results, please feel free to reach out to me. I'm excited to explore new opportunities and help you achieve your goals. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Bubble Tea Storefront",
+        "startDate": "2022",
+        "description": "This is a fullstack development project implemented by a small group of 3. This bubble tea storefront was build using React, HTML, CSS, JavaScript and NodeJs. On top of the basic ordering and payment functionalities, it is integrated with Emailjs and Google Maps to handle customer requests and store searches. Users can also login using Google SSO and pay their orders wiht their PayPal account. RESTful API was designed with GraphQL standard using Node.js and Express.js. The CRUD routes support authentication and authorization for different roles (admins/customers).",
+        "images": [
+          "images/portfolio/bubble_tea/p1.jpg"
+        ],
+        "videos": [
+          "videos/pepe.mp4"
+        ],
+        "url": "https://github.com/connieniew/bubbletea",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          }
+        ]
+      },
+      {
+        "title": "scikit-learn",
+        "startDate": "2021",
+        "description": "A practice group project that implements real tickets from scikit-learn, a Python open-source machine learning library. With a group of 6, we drew a UML diagram on all classes in the code base as well as fixed/implemented 1. Bug #18837 Duplicate check_finite when calling scipy.linalg functions. 2. Feature #11209 Add strategy=”random” to SimpleImputer. 3. Feature #14257 [Enhancement] Group aware Time-based cross validation. 4. Feature #19072 [New Feature] GroupedTimeSeriesSplit with params - gap and test_size. Corresponding unit tests were written to verify the correctness.",
+        "images": [
+          "images/portfolio/scikit-learn/p1.png",
+          "images/portfolio/scikit-learn/p2.png",
+          "images/portfolio/scikit-learn/p3.png",
+          "images/portfolio/scikit-learn/p4.png",
+          "images/portfolio/scikit-learn/p5.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "OCASI Chatbot",
+        "startDate": "2020",
+        "description": "The chatbot is trained to answer user questions by using the frequently asked questions on settlement.org. It returns popular answers/resources based on the question it was asked or the inputed keywords. The purpose of the chatbot is to help streamline the search process that users have to go through when they visit settlement.org. The chatbot combines the google search bar on the front page, the various FAQs within the site, popular articles and the forum questions.",
+        "images": [
+          "images/portfolio/ocasi/p1.png",
+          "images/portfolio/ocasi/p2.png"
+        ],
+        "url": "https://github.com/connieniew/ocasi",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-googlecloud-plain",
+            "name": "Google Cloud"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Common Wealth Retirement",
+        "title": "Full Stack Developer",
+        "years": "09.2020 - 04.2021",
+        "mainTech": [
+          "React + Spring"
+        ],
+        "mainTechIcon": "fab fa-react",
+        "technologies": [
+          "TypeScript",
+          "SCSS",
+          "Material UI",
+          "i18n",
+          "Cypress",
+          "Java",
+          "JUnit",
+          "REST API",
+          "AWS SES",
+          "AWS S3",
+          "GIT",
+          "Agile"
+        ]
+      },
+      {
+        "company": "Fleet Complete",
+        "title": "Automation Developer",
+        "years": "05.2019 - 12.2019",
+        "mainTech": [
+          "WebdriverIO"
+        ],
+        "mainTechIcon": "fas fa-code",
+        "technologies": [
+          "Appium",
+          "JavaScript",
+          "Cucumber",
+          "Jenkins",
+          "Allure",
+          "AWS lambda",
+          "GIT",
+          "Agile"
+        ]
+      }
+    ]
+  }
