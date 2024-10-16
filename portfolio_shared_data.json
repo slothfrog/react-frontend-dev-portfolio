@@ -1,0 +1,87 @@
+{
+    "basic_info": {
+      "name": "Connie Wang",
+      "titles": [ "Full Stack Developer", "Automation Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/connieniew",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/connie-wang-ssw/",
+          "class": "fab fa-linkedin-in"
+        }
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-original"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain"
+        },
+        {
+          "name": "Spring",
+          "class": "devicon-spring-plain"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-line"
+        },
+        {
+          "name": "Cucumber",
+          "class": "devicon-cucumber-plain"
+        }
+      ]
+    }
+  }
