@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Connie Wang. I graduated from the University of Toronto in 2022 with a HBSc in Computer Science.<br/><br/>I have been fortunate to acquire knowledge and skills in fullstack development and automation over the course of my career. These experiences were gained within professional contexts, providing me with a comprehensive understanding of how to build user-friendly and responsive web applications. I am committed to delivering high-quality work and exceeding client expectations. My attention to detail, strong communication skills, and ability to work collaboratively make me a valuable asset to any team. <br/><br/>Outside of work, I enjoy hiking and exploring new places. I believe in the importance of continuous learning and strive to stay up-to-date with the latest technologies and industry trends. <br/><br/> If you're looking for a talented and dedicated developer who can deliver results, please feel free to reach out to me. I'm excited to explore new opportunities and help you achieve your goals. Thank you 💜",
+      "description": "👋 I'm Connie Wang. I graduated from the University of Toronto with a HBSc in Computer Science.<br/><br/>I have been fortunate to acquire knowledge and skills in fullstack development and automation over the course of my career. These experiences were gained within professional contexts, providing me with a comprehensive understanding of how to build user-friendly and responsive web applications. I am committed to delivering high-quality work and exceeding client expectations. My attention to detail, strong communication skills, and ability to work collaboratively make me a valuable asset to any team. <br/><br/>Outside of work, I enjoy hiking and exploring new places. I believe in the importance of continuous learning and strive to stay up-to-date with the latest technologies and industry trends. <br/><br/> If you're looking for a talented and dedicated developer who can deliver results, please feel free to reach out to me. I'm excited to explore new opportunities and help you achieve your goals. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -10,6 +10,32 @@
       }
     },
     "projects": [
+      {
+        "title": "Plant Identifier",
+        "startDate": "2024",
+        "description": "Plant Identifier is a web application built with Next.js and React that uses Google's Gemini AI to help users identify plants through image recognition and provide detailed care instructions.",
+        "images": [
+          "images/portfolio/plant_identifier/p1.png",
+          "images/portfolio/plant_identifier/p2.png",
+          "images/portfolio/plant_identifier/p3.png",
+          "images/portfolio/plant_identifier/p4.png"
+        ],
+        "url": "https://github.com/slothfrog/plant-identifier/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nextjs-original-wordmark",
+            "name": "NextJS"
+          }
+        ]
+      },
       {
         "title": "Bubble Tea Storefront",
         "startDate": "2022",
@@ -20,7 +46,7 @@
         "videos": [
           "videos/pepe.mp4"
         ],
-        "url": "https://github.com/connieniew/bubbletea",
+        "url": "https://github.com/slothfrog/bubbletea",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -63,7 +89,7 @@
           "images/portfolio/ocasi/p1.png",
           "images/portfolio/ocasi/p2.png"
         ],
-        "url": "https://github.com/connieniew/ocasi",
+        "url": "https://github.com/slothfrog/ocasi",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
